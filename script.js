@@ -12,7 +12,7 @@ form.addEventListener("submit", function (e) {
 
     // Validation
     if (userAge === "" || userName === "") {
-        alert("Please enter valid details.");
+        alert("Please enter valid details");
         return;
     }
 
